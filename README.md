@@ -1,14 +1,14 @@
-# Data Structures & Algorithms — Practical File
+# Design and Analysis of Algorithms — Practical File
 
 > **Author:** Rahma Nakhuda  
-> **Subject:** Data Structures & Algorithms (DAA)  
+> **Subject:** Design and Analysis of Algorithms (DAA)  
 > **Language:** Python 3
 
 ---
 
 ## About
 
-This repository contains all Python practical assignments for the **Data Structures & Algorithms (DAA)** subject.  
+This repository contains all Python practical assignments for the **Design and Analysis of Algorithms (DAA)** subject.  
 Each practical is neatly formatted with a clear problem statement, well-written Python code, and sample input/output.
 
 ---
